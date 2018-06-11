@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+/* rubik-regular - latin */
+@font-face {
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Rubik"), local("Rubik-Regular"),
+    /* Modern Browsers */ url("./assets/font/Rubik-Regular.ttf")
+      format("truetype");
+  /* Safari, Android, iOS */
+}
